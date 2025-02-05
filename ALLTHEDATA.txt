@@ -1,0 +1,2279 @@
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:20.12
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:20.06
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:20.00
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:20.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:19.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:19.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.69
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.62
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.62
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.56
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.56
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.50
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.44
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.44
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.44
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.37
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.37
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.37
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.37
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.19
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.19
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.19
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.19
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.12
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.12
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.12
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.12
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:19.00
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:19.06
+Soil Moisture Value: 298
+Sensor Value: 302	TDS (mg/l): 568.58
+CO2: 301
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.31
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.25
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 304
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.19
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.19
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.12
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:19.06
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.00
+Soil Moisture Value: 301
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 303
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 305	TDS (mg/l): 575.76
+CO2: 305
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.06
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:19.00
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:19.00
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 306
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.94
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.87
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.87
+Soil Moisture Value: 303
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.81
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.75
+Soil Moisture Value: 303
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.75
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.75
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.75
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 307
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.69
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.62
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.62
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.56
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.56
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.56
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 300
+Sensor Value: 304	TDS (mg/l): 573.36
+CO2: 304
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 307	TDS (mg/l): 580.59
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 302
+Sensor Value: 306	TDS (mg/l): 578.17
+CO2: 306
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 307
+Sensor Value: 311	TDS (mg/l): 590.34
+CO2: 312
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.50
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 304
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 308
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 308	TDS (mg/l): 583.01
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.44
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.31
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.31
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 306
+Sensor Value: 310	TDS (mg/l): 587.89
+CO2: 310
+Temperature:18.31
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 310
+Temperature:18.37
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 305
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
+Temperature:18.31
+Soil Moisture Value: 306
+Sensor Value: 309	TDS (mg/l): 585.45
+CO2: 309
