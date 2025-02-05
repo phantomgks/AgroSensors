@@ -18,7 +18,7 @@ import re
 
 
 
-f = open("C:/Users/gpro0/OneDrive/Рабочий стол/PROJEEEECT/ALLTHEDATA.txt", 'r')                                
+f = open("ALLTHEDATA.txt", 'r')                                
 a = f.read()
 
 pattern = r"Temperature:(\d+\.\d+)\nSoil Moisture Value: (\d+)\nSensor Value: (\d+)\s*TDS \(mg/l\): (\d+\.\d+)\nCO2: (\d+)"
@@ -63,7 +63,7 @@ df = df.reindex(columns=["DATE","N_SOIL","P_SOIL","K_SOIL","TEMPERATURE","HUMIDI
 
 
 
-df.to_csv("C:/Users/gpro0/OneDrive/Рабочий стол/PROJEEEECT/DATA_LATEST.csv")
+df.to_csv("DATA_LATEST.csv")
 
 
 
@@ -82,7 +82,7 @@ def plot_graph(df, x, y, kind='line'):
 
 st.title("Data analys and prediction")
 
-file = "C:/Users/gpro0/OneDrive/Рабочий стол/PROJEEEECT/DATA_LATEST.csv"
+file = "DATA_LATEST.csv"
 
 # uploaded_file = st.file_uploader("Upload .csv file")
 
@@ -99,7 +99,7 @@ if file is not None:
     df1 = df0.drop(columns=['YIELD_LVL', 'DATE', "CO2", "TDS"], errors='ignore')
 
 
-model = pickle.load(open("C:/Users/gpro0/OneDrive/Рабочий стол/project/model.pkl", 'rb'))
+model = pickle.load(open("model.pkl", 'rb'))
 
 
 if st.button("Make Yield prediction"):
